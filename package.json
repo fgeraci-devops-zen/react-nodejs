@@ -1,7 +1,11 @@
 {
-  "name": "node-react",
+  "name": "server",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3ß"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
