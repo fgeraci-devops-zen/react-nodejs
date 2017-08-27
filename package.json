@@ -1,7 +1,6 @@
 {
   "name": "node-react",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgeraci-devops-zen/react-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fgeraci-devops-zen/react-nodejs/issues"
+  },
+  "homepage": "https://github.com/fgeraci-devops-zen/react-nodejs#readme",
+  "description": ""
 }
